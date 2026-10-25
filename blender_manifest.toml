@@ -4,6 +4,7 @@ version = "1.0.0"
 name = "StageTools"
 tagline = "Normalize assets, prune materials and isolate camera frustums"
 maintainer = "Gihan Nirmal Maddumage <maddumagegihan51@gmail.com>"
+support = "https://github.com/maddumagegihan51/stage_tools/issues"
 type = "add-on"
 tags = ["Pipeline", "Object", "Material"]
 blender_version_min = "4.5.0"
