@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+id = "stage_tools"
+version = "1.0.0"
+name = "StageTools"
+tagline = "Normalize assets, prune materials and isolate camera frustums"
+maintainer = "Gihan Nirmal Maddumage <maddumagegihan51@gmail.com>"
+type = "add-on"
+tags = ["Pipeline", "Object", "Material"]
+blender_version_min = "4.5.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 Gihan Nirmal Maddumage"]
+
+[permissions]
+
+[build]
+paths = ["__init__.py", "LICENSE"]
+
